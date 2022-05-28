@@ -13,9 +13,6 @@
     "strict": true,                                      /* Enable all strict type-checking options. */
     "noImplicitAny": true,
     "moduleResolution": "node",
-    "paths": {
-      "@src":["src/*"]
-    },
     "skipLibCheck": true,                                /* Skip type checking all .d.ts files. */
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
