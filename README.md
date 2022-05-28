@@ -4,7 +4,6 @@ This repository constains a basic NodeJS project configured with:
 
 - Typescript
 - .env example setup
-- ESLint (AirBnB standard)
 - Prettier
 - Jest Testing Framework (with a semple test)
 
