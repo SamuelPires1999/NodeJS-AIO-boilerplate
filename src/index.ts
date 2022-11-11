@@ -2,4 +2,4 @@ import dotenv from 'dotenv-safe';
 
 dotenv.config();
 
-console.log('a')
+console.log('Node js boilerplate is running')
