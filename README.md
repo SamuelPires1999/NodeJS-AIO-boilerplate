@@ -3,6 +3,7 @@
 This repository constains a basic NodeJS project configured with:
 
 - Typescript
+- Webpack / Babel for transpiling and bundling
 - .env example setup
 - Prettier
 - Jest Testing Framework (with a semple test)
